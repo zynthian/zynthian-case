@@ -7,7 +7,7 @@
 This repository contains the stuff related to case building: plots, schemes, renders, photos, CNC files, ...
 You can find useful information about [building a Zynthian Box in the Blog] (http://blog.zynthian.org/index.php/2015/11/22/building-a-zynthian-box/)
 
-![Image of a 3D printed Zynthian case](http://zynthian.org/img/github/zynthian_3Dprinted_case-01.jpg)
+![Image of a 3D printed Zynthian case](http://zynthian.org/img/github/zynthian_3Dprinted_case-02.jpg)
 
 You can learn more about the Zynthian Project reading [the blog] (http://blog.zynthian.org) or visiting [the website] (http://zynthian.org). Also, you can join the conversation in [the forum] (https://discourse.zynthian.org).
 
