@@ -1,4 +1,4 @@
-# Zynthian Hardware
+# Zynthian Case
 
 [Zynthian] (http://zynthian.org) is an Open Synth Platform based in Raspberry Pi, Linux (Raspbian) and Open Software Synthesizers.
 
