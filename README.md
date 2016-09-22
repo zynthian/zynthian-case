@@ -12,7 +12,7 @@ You can learn more about the Zynthian Project reading [the blog] (http://blog.zy
 
 # Credits
  + Paul Alex Falduto: Initial 3D print design
- + Belén Fernandez (Punt Multimedia de Sants): Revision 3D print design
+ + Belén Fernández (Punt Multimedia de Sants): Revision 3D print design
  + Marc Soler: Cool rotulation ;-)
 
 
