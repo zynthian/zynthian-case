@@ -11,8 +11,9 @@ You can find useful information about [building a Zynthian Box in the Blog] (htt
 You can learn more about the Zynthian Project reading [the blog] (http://blog.zynthian.org) or visiting [the website] (http://zynthian.org). Also, you can join the conversation in [the forum] (https://discourse.zynthian.org).
 
 # Credits
- + Paul Falduto: Initial 3D print design
- + Belén (Punt Multimedia de Sants): 3D print design & revision
+ + Ramón Besora ([Besmon] (http://www.besmon.com)): Metal Case Design
+ + Paul Alex Falduto: Initial 3D print design
+ + Belén Fernández (Punt Multimedia de Sants): Revision 3D print design
  + Marc Soler: Cool rotulation ;-)
 
 
