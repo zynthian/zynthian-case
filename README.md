@@ -15,6 +15,8 @@ You can learn more about the Zynthian Project reading [the blog] (http://blog.zy
  + Paul Alex Falduto: Initial 3D print design
  + Belén Fernández (Punt Multimedia de Sants): Revision 3D print design
  + Marc Soler: Cool rotulation ;-)
+ + Susanna Sort: Laser-cutter wooden-case design
+ + Much more ...
 
 
 [![Creative Commons Attribution-ShareAlike 4.0 International License](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by-sa_petit.png)] (
