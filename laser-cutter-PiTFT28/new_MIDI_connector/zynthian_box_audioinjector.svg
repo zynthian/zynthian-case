@@ -12,7 +12,7 @@
    height="168.09999mm"
    viewBox="0 0 1453.9618 595.63039"
    id="svg4257"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="zynthian_box_audioinjector.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1136"
      id="namedview4283"
      showgrid="false"
-     inkscape:zoom="0.66758252"
-     inkscape:cx="692.90631"
-     inkscape:cy="249.08258"
+     inkscape:zoom="1.8882085"
+     inkscape:cx="757.73117"
+     inkscape:cy="175.00921"
      inkscape:window-x="1440"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1172,13 +1172,13 @@
      style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24803171;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="circle5762"
-     d="m 602.4718,433.16999 a 31.917999,31.917999 0 0 0 0.26184,3.75 h 3.81225 a 28.34784,28.34784 0 0 0 28.0646,24.59658 28.34784,28.34784 0 0 0 28.34842,-28.34658 28.34784,28.34784 0 0 0 -28.34842,-28.34841 28.34784,28.34784 0 0 0 -28.06642,24.5984 h -3.82874 a 31.917999,31.917999 0 0 0 -0.24353,3.75001 z"
+     d="m 662.95891,433.16816 a 31.917999,31.917999 0 0 0 -0.26184,-3.75 h -3.81225 a 28.34784,28.34784 0 0 0 -28.0646,-24.59658 28.34784,28.34784 0 0 0 -28.34842,28.34658 28.34784,28.34784 0 0 0 28.34842,28.34841 28.34784,28.34784 0 0 0 28.06642,-24.5984 h 3.82874 a 31.917999,31.917999 0 0 0 0.24353,-3.75001 z"
      style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35160661;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.35160661;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 602.4718,517.1901 a 31.917999,31.917999 0 0 0 0.26184,3.75 h 3.81225 a 28.34784,28.34784 0 0 0 28.0646,24.59658 28.34784,28.34784 0 0 0 28.34842,-28.34658 28.34784,28.34784 0 0 0 -28.34842,-28.3484 28.34784,28.34784 0 0 0 -28.06642,24.59839 h -3.82874 a 31.917999,31.917999 0 0 0 -0.24353,3.75001 z"
+     d="m 662.95892,517.18828 a 31.917999,31.917999 0 0 0 -0.26184,-3.75 h -3.81225 a 28.34784,28.34784 0 0 0 -28.0646,-24.59658 28.34784,28.34784 0 0 0 -28.34842,28.34658 28.34784,28.34784 0 0 0 28.34842,28.3484 28.34784,28.34784 0 0 0 28.06642,-24.59839 h 3.82874 a 31.917999,31.917999 0 0 0 0.24353,-3.75001 z"
      id="path4712" />
   <path
      style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24803171;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
