@@ -22,7 +22,7 @@ You can learn more about the Zynthian Project reading [the blog](http://blog.zyn
  + Many more ...
 
 
-[![Creative Commons Attribution-ShareAlike 4.0 International License](https://upload.wikimedia.org/wikipedia/commons/f/f3/CC-BY-SA_3_icon_88x31.png)] (
+[![Creative Commons Attribution-ShareAlike 4.0 International License](https://upload.wikimedia.org/wikipedia/commons/f/f3/CC-BY-SA_3_icon_88x31.png)](
 http://creativecommons.org/licenses/by-sa/4.0/)
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
