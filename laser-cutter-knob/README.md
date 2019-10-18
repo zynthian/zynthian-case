@@ -1,6 +1,8 @@
 # Laser-cut Zynthian-branded knobs
 
-These Zynthian-branded knobs can be laser-cut and assembled as accessories to compliment a laser-cut Zynthian case. They are made from six discs of **3 mm material** stacked and glued together.
+These Zynthian-branded knobs can be laser-cut and assembled to compliment a laser-cut Zynthian case. They are made from six discs of **3 mm material** stacked and glued together.
+
+![Image of Zynthian knobs](http://zynthian.org/img/github/Zynthian_knobs.jpg)
 
 ## Laser cut files
 
@@ -10,10 +12,10 @@ Laser-cut files are provided in .dxf and .svg formats. The files are colour-code
 2. Red - inside cut
 3. Black - outside cut
 
-The knobs in the photo were made using [LaserWeb4](https://github.com/LaserWeb/LaserWeb4) and a K-40 laser cutter.
+The knobs in the photos were made using [LaserWeb4](https://github.com/LaserWeb/LaserWeb4) and a K-40 laser cutter.
 
 ## Assembly
 
-It is suggested that the discs be glued together on an encoder shaft to ensure proper aligment of the shaft hole.
+Glue the discs together on an encoder shaft to ensure proper aligment.
 
-![Image of Zynthian with laser-cut knobs](http://zynthian.org/img/github/Zynthian_Knobs.jpg)
+![Image of Zynthian with laser-cut knobs](http://zynthian.org/img/github/Zynthian_with_knobs.jpg)
