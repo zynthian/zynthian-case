@@ -1,3 +1,9 @@
+This fantastic case has been contributed by '''Nicolai Demidenko'''.
+It's designed for RBPi4 + Zynscreen, but include lot of customizations that improves the basic Kit v3.
+
+![Front view of the 3D-printed RBPi4+Zynscreen customized case](https://raw.githubusercontent.com/zynthian/zynthian-case/master/3DPrint-RBPi4-Zynscreen-CustomCase/Images/DSCF0340.JPG)
+
+![Back view of the 3D-printed RBPi4+Zynscreen customized case](https://raw.githubusercontent.com/zynthian/zynthian-case/master/3DPrint-RBPi4-Zynscreen-CustomCase/Images/DSCF0341.JPG)
 
 This case for Zynthian involves quite a lot of additional work and is not a simple assembly. It requires lots of extra soldering and glueing parts.
 Wires for MIDI sockets and LEDs have to be lenghtened. Additional parts required are 20W 5V 4A PSU available from aliexpress at less than 2 euros,
