@@ -5,6 +5,7 @@ designed by user LeifA on Thingiverse
 https://www.thingiverse.com/thing:4344990
 
 Here's the list of hardware this case is compatible with:
+
 Zynscreen 1.5 with buttons
 Zynaptic module
 Raspberry Pi4
