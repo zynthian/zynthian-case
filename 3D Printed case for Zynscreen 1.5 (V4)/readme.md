@@ -15,6 +15,9 @@ Zynthian or any other encoders
 
 All the parts are interchangeable with the original design of LeifA
 
+This design is also available on Thingiverse:
+https://www.thingiverse.com/thing:4749492
+
 Have fun!
 
 Venray, The Netherlands
