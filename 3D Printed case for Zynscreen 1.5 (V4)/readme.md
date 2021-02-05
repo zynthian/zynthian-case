@@ -1,4 +1,4 @@
-Zynthian V4 case for Raspberry Pi4 + Zynscreen 1.5 with buttons and HiFiBerry DAC+ADC board with audio outs
+#Zynthian V4 case for Raspberry Pi4 + Zynscreen 1.5 with buttons and HiFiBerry DAC+ADC board with audio outs
 
 This folder contains theSTL and Fusion 360 files of the top and back plates only. I've also added the bottom, front and side panels, which were originally
 designed by user LeifA on Thingiverse
