@@ -8,4 +8,4 @@ Zynthian Case is designed usign FreeCAD or its equivalent Ondsel software.
 
 For more infromation about what zynthian mini V2 is and how to assemble go to [wiki](https://github.com/sstojos/zynthian-mini/wiki) page. 
 
-![Zynthian Mini V2 3d prinitng timelapse](resources/timelapse_top.mp4)
+[![Zynthian Mini V2 3d printing timelapse](resources/timelapse_thumbnail.png))](resources/timelapse_top.mp4)
